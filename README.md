@@ -1,2 +1,1 @@
-# LinuxProjects
-This Repository Includes Projects Built For Linux.
+##### Basic programs to practice bash
