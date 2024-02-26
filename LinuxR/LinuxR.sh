@@ -11,7 +11,7 @@ echo -e "\e[97;5;1m	 	_     _                  ____
 		|_____|_|_| |_|\__,_/_/\_\_| \_\\e[0m"
 
 echo -e "\e[91m"
-echo -e "\nAuthor: Venkatesh Nikam\n\n\tLinuxR is a Program Designed for beginners who are new to Linux. While Learning Linux, student encounter topics like User Administration, File Management, Regular Expressions, and many such more confusing topics.\n\tLinuxR is ALL IN ONE solution to learn such topics with a practical experience! LinuxR is a tool that provides user-friendliness with the terminal and makes user aware about applications of various Operating System Concepts such as File Management, User management, System Analysis and Configuration, Linux Programming, etc." | fold -sw 90
+echo -e "\nAuthor: Sheshnaagam\n\n\tLinuxR is a Program Designed by beginners who is new to Linux." | fold -sw 90
 exx="0";
 while [ $exx == "0" ]
 do
