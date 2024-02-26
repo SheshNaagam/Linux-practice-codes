@@ -1,3 +1,1 @@
-### THIS PROJECT IS VERY BASIC AND PURPOSE OF THIS PROJECT IS TO GET USED TO BASH SCRIPTING AND LINUX TERMINAL.
-
-###### LinuxR is a Program Designed for beginners who are new to Linux. While Learning Linux, student encounter topics like User Administration, File Management, Regular Expressions, and many such more confusing topics.\n\tLinuxR is ALL IN ONE solution to learn such topics with a practical experience! LinuxR is a tool that provides user-friendliness with the terminal and makes user aware about applications of various Terminal Concepts Like File Management,  System Analysis and Configuration, Linux Programming, etc.
+###### The Programs are very basic mini tools.
